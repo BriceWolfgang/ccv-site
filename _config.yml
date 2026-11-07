@@ -1,0 +1,21 @@
+title: Cultivating Community
+tagline: Food Sovereignty for All
+description: Cultivating Community. Food sovereignty for all.
+
+# GitHub Pages project URL. For the custom domain, set url to
+# https://foodsovereigntyforall.com and baseurl to "".
+url: https://cousinbryce.github.io
+baseurl: /ccv-site
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - docs/
+  - vendor/
