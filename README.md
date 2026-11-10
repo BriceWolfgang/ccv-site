@@ -1,7 +1,7 @@
 # Cultivating Community site
 
 Jekyll site for Cultivating Community. Pushes to `main` deploy to GitHub Pages:
-https://bricewolfgang.github.io/ccv-site/
+https://bricewolfgang.com/ccv-site/
 
 ## Run locally
 
