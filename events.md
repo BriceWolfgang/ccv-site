@@ -3,6 +3,10 @@ title: Events
 permalink: /events/
 ---
 
-# Events
+# Free Groceries
+## Sundays • 12pm  
+### 3417 14th St. NW
 
-Coming soon.
+Free food, prepared meals, organic produce, sandwiches, bagels, bread & more !
+  
+# All are welcome

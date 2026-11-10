@@ -5,4 +5,4 @@ permalink: /donate/
 
 # Donate
 
-Coming soon.
+**FYI I checked the insta bio for the donation link and its not there**

@@ -3,6 +3,4 @@ title: About
 permalink: /about/
 ---
 
-# About
-
-Coming soon.
+### Cultivating Community is a 501(c)(3) nonprofit fostering connections around sustainable local food systems.
